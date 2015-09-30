@@ -1,7 +1,6 @@
 The Scrum Cookbook
 ==================
 Sven Czypull <sven.czypull@googlemail.com>
-Markus Mann <markus.mann@iic-solutions.com>
 :toc2:
 :toc-title: Inhaltsverzeichnis
 :numbered:
