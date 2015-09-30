@@ -1,0 +1,135 @@
+The Scrum Cookbook
+==================
+Sven Czypull <sven.czypull@googlemail.com>
+Markus Mann <markus.mann@iic-solutions.com>
+:toc2:
+:toc-title: Inhaltsverzeichnis
+:numbered:
+:icons: font
+
+Vorwort
+-------
+Scrum ist:
+
+- Leichtgewichtig
+- einfach zu verstehen
+- aber schwierig zu beherrschen
+
+Wir möchten es Ihnen ein wenig einfacher machen und haben mit dem Scrum Cookbook einige Rezepte zusammengetragen, die Ihnen bei der Einführung 
+von Scrum helfen sollen. Einige Rezepte sollen wichtige Kernaspekte von Scrum hervorheben, andere sind praktische Ergänzungen für die tägliche Arbeit.
+
+Haben Sie eigene Rezepte, oder Änderungsvorschläge? Wir nehmen diese gerne in das Scrum Cookbook auf. https://github.com/TheScrumCookbook/
+
+
+Die Vorbereitung
+----------------
+Damit Sie während des Kochens Ihres ersten Scrum-Sterne-Menüs nicht in Stress und Panik verfallen und dann ganz schnell wieder zur 
+altbewährten Universalwürze greifen, bedarf es einiger Vorbereitungen.
+Jeder Koch sollte sich zu Beginn fragen, ob das Menü Ihren Gästen (Teammitglieder) auch schmecken wird. Denn genau das ist ja Ihr Ziel. Ihre Gäste sollen von dem
+Menü begeistert sein und es im Idealfall auch weiterempfehlen.
+Im ersten Schritt sollten Sie also Ihre Gäste näher kennenlernen. Sprechen Sie direkt mit Ihnen über Ihr geplantes Menü, Gerichte und Zutaten und beziehen 
+Sie sie in die Erstellung des Scrum-Sterne-Menüs mit ein. Wenn Ihnen und Ihren Gästen das Menü unbekannt und exotisch vorkommt, 
+sollten Sie entsprechende Literatur und/oder Experte(n) zu Rate ziehen. Eine sehr gute erste Informationsquelle ist der Scrum Guide auf http://www.scrumguides.org. 
+Erst wenn Sie ein gutes Verständnis für Scrum entwickelt haben, sollten Sie gemeinsam mit Ihren Gästen mit dem Kochen beginnen. 
+Gemeinsam? Richtig...Ihre Gäste dürfen und sollen selbst kochen.
+
+Das Scrum Team
+--------------
+
+Du darfst keine Rollen/Titel neben mir haben
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Schmeckt nicht jedem. Macht aber Sinn.
+
+Zutaten:
+
+- Developer (Entwickler)
+
+Rezept:
+
+Neben dem Scrum Master und Product Owner gibt es ausschließlich Developer.
+Andere Rollen bzw. Titel gibt es nicht. Haben Sie einen Software Architekten, einen Buildmanager, einen Tester oder ähnliche Titel, machen Sie etwas falsch.
+Warum ist das so? Spezifische Titel gehen einher mit entsprechenden Verantwortlichkeiten. Stark vereinfacht, ist der Software Architekt für die technische 
+Architektur verantwortlich, der Tester für Qualität und so weiter. In Scrum ist das Entwicklungsteam gemeinsam verantwortlich. 
+Dies soll sich auch im Titel widerspiegeln. Dies bedeuted aber nicht, dass es nicht Entwickler mit speziellen Fähigkeiten oder Schwerpunkten geben darf.
+[NOTE]
+====
+ Auch Tester sind Entwickler.
+====
+
+Selbst ist die Frau, der Mann, das Team
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Klingt einfacher als es ist.
+
+Zutaten:
+
+- Scrum Master
+- Product Owner
+- CEO, CIO, CTO, Fachbereiche etc. (also alle anderen)
+
+Rezept:
+
+Schreiben Sie dem Entwicklungsteam nicht vor, wie es das Product Backlog in lauffähige Funktionaliät verwandelt.
+Der Kernaspekt von Scrum ist die Selbstorganisation des Entwicklungsteams. Möchten Sie dem Team trotzdem vorschreiben, was es wie tun soll, dann
+empfehle ich Ihnen das Wasserfallmodell oder andere. 
+
+Sprint
+------
+
+Wer schreibt muss sich nicht erinnern
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Für den Einen leicht, für den anderen nicht. Es lohnt sich für Beide.
+
+Zutaten:
+
+- Gesamtes Scrum Team
+- Papier und Stift (oder ähnliches)
+
+Rezept:
+
+Schreiben Sie am Ende eines Tages auf, was Ihnen in Bezug auf Personen, Beziehungen, Prozesse und Tools, positiv wie negativ aufgefallen ist.
+Ihre Retrospektiven werden gleich viel leichter von der Hand gehen und um ein vielfaches produktiver.
+
+Dauer:
+5-10 Minuten (täglich)
+
+Daily Scrum
+------------
+
+Daily Scrum After Hour
+~~~~~~~~~~~~~~~~~~~~~~
+Gelingt leicht und es werden keine Vorkenntnisse benötigt.
+
+Zutaten:
+
+- Gesamtes Scrum Team
+- Terminkalendar
+
+Rezept:
+
+Blocken Sie die Stunde nach dem Daily Scrum für Detailfragen und Diskussionen. 
+Es dürfen in dieser Zeit keine zusätzlichen Termine eingetragen werden.
+
+Dauer:
+1 Minute
+
+
+Stay away from Daily Scrum
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Klingt einfach, ist es aber nicht.
+
+Zutaten:
+
+- Product Owner
+- Scrum Master
+
+Rezept:
+
+Nehmen Sie den Product Owner und Scrum Master und verbannen Sie sie vom Daily Scrum.
+Er gehört dem Entwicklungsteam ganz allein!
+
+Dauer:
+< 1 Minute
+
+Darf es ein bisschen mehr sein?
+-------------------------------
+Text
